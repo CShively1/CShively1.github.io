@@ -2,7 +2,7 @@
 <html lang ="en">
 <html>
 <head>
-<title> <b> My News Website and Document </b> </title>
+ <b> My News Website and Document </b> 
 </head>
 <h1> My Original News Document </h1>
 <p> Made on 2/3/24 was a document consisting of basic coding skill with a story wrapped in there about how I was always told to work with computers in some way. <br/>
