@@ -4,6 +4,9 @@
 <head>
  <h1> <b> The Shively Scoop </b> </h1>
 </head>
-<h2> My Original News Document </h2>
+<body>
+<h2> The GitHub Page </h2>
 <p> The Original Hub Page: <cite> https://github.com/dashboard </cite> </p>
+<h3> The News </h3>
+</body>
 </html>
