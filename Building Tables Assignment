@@ -1,0 +1,36 @@
+<style>
+    table, tr, td {
+        border: 1px solid black;    
+</style>
+<table> 
+<caption> How many hairs does a dog lose on a daily basis… </caption>
+<thead>
+<tr>
+<td colspan="3">CS 2/22/24 Building Tables Assignment</td>
+</tr>
+<tr>
+<td>Days:</td>
+<td>Hair Loss Estimate</td>
+<td>Correlation</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Day 1</td>
+<td>4000</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Day 2</td>
+<td>1500</td>
+<td>-2500</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td>Day 3</td>
+<td>7000</td>
+<td>+5500</td>
+</tr>
+</tfoot>
+</table>
