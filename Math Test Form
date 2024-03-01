@@ -1,20 +1,32 @@
 <form>
-Insert Your Name Below:<br/>
-<textarea rows="4" cols="30"> 
+Insert Your Name Below:<br />
+<textarea rows="3" cols="19">
 </textarea>
+<br />
+<br />
+<caption> Which of these is the Scariest&quest;</caption>
+<br />
 <select>
-<p><b>What is the Scariest?</b></p>
 <option>Bio-Weapons</option>
-<option selected>Meteoroid</option>
+<option>Meteoroid</option>
 <option>Buried Alive</option>
 </select>
-<p>What Would (In Your Opinion) Your Last Meal Have The Most Of?</p>
+<p>
+What Would (In Your Opinion)  Your Last Meal Probably Have The Most Of&quest;
+</p>
 <input type="radio" name="LastMeal" value="Fruits">
-Fruits <br/>
+Fruits <br />
 <input type="radio" name="LastMeal" value="Veggies">
-Vegetables <br/>
-<input type="radio" name="LastMeal" value="Dairy"
-Dairy <br/>
+Vegetables <br />
 <input type="radio" name="LastMeal" value="Protein">
-Protein <br/>
+Protein <br />
+<p>
+Have you worked out in the Last Week&quest;
+</p>
+<input type="radio" name="LastWeek" value="Yes">
+Yes <br />
+<input type="radio" name="LastWeek" value="No">
+No <br />
+<input type="radio" name="LastWeek" value="At Least 3 Times">
+At Least 3 Times <br />
 </form>
