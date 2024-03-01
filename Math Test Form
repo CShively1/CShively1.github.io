@@ -1,0 +1,20 @@
+<form>
+Insert Your Name Below:<br/>
+<textarea rows="4" cols="30"> 
+</textarea>
+<select>
+<p><b>What is the Scariest?</b></p>
+<option>Bio-Weapons</option>
+<option selected>Meteoroid</option>
+<option>Buried Alive</option>
+</select>
+<p>What Would (In Your Opinion) Your Last Meal Have The Most Of?</p>
+<input type="radio" name="LastMeal" value="Fruits">
+Fruits <br/>
+<input type="radio" name="LastMeal" value="Veggies">
+Vegetables <br/>
+<input type="radio" name="LastMeal" value="Dairy"
+Dairy <br/>
+<input type="radio" name="LastMeal" value="Protein">
+Protein <br/>
+</form>
