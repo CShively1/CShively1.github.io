@@ -1,32 +1,55 @@
 <form>
-Insert Your Name Below:<br />
+    <!--This is the Start of the Test-->
+    <H2> Text Field and Word Problem </H2>
+    What is Your Name&quest;:
+    <br />
 <textarea rows="3" cols="19">
 </textarea>
 <br />
+<input type="submit">
 <br />
-<caption> Which of these is the Scariest&quest;</caption>
+<H2> Multiple Choice 1  </H2>
+<caption> If someone had 4 apples in 1 hand and 4 more in a basket, how many would there be total&quest;</caption>
 <br />
 <select>
-<option>Bio-Weapons</option>
-<option>Meteoroid</option>
-<option>Buried Alive</option>
+<option>4</option>
+<option>8</option>
+<option>9</option>
 </select>
+<br />
+<input type="submit">
 <p>
-What Would (In Your Opinion)  Your Last Meal Probably Have The Most Of&quest;
+<H2> Multiple Choice 2 </H2>
+Whats 10 &times; 10&quest;
 </p>
-<input type="radio" name="LastMeal" value="Fruits">
-Fruits <br />
-<input type="radio" name="LastMeal" value="Veggies">
-Vegetables <br />
-<input type="radio" name="LastMeal" value="Protein">
-Protein <br />
+<input type="radio" name="10x10" value="110">
+110 <br />
+<input type="radio" name="10x10" value="20">
+20 <br />
+<input type="radio" name="10x10" value="100">
+100 <br />
+<input type="submit">
 <p>
-Have you worked out in the Last Week&quest;
+<H2> Multiple Choice 3 </H2>
+Whats 64 &divide; 4&quest;
 </p>
-<input type="radio" name="LastWeek" value="Yes">
-Yes <br />
-<input type="radio" name="LastWeek" value="No">
-No <br />
-<input type="radio" name="LastWeek" value="At Least 3 Times">
-At Least 3 Times <br />
+<input type="radio" name="Divide" value="16">
+16 <br />
+<input type="radio" name="Divide" value="20">
+20 <br />
+<input type="radio" name="Divide" value="15">
+15
+<br />
+<input type="submit">
+<H2> Multiple Choice 4 </H2>
+Is &frac14; &lt;, &gt;, or Equal to &frac12;&quest;
+</p>
+<input type="radio" name="Answer" value="Less">
+Less Than <br />
+<input type="radio" name="Answer" value="More">
+More Than <br />
+<input type="radio" name="Answer" value="Equal">
+Equal To <br />
+<input type="submit">
+<!--This is the End of the Test-->
 </form>
