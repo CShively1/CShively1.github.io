@@ -1,0 +1,15 @@
+<h2> Breakfast </h2> 
+<p> Breakfast: One pancake with syrup and butter. <br> Five pancakes with syrup, butter, a side of bacon and eggs. <br> One, two, or three hashbrowns. <br> Greek yogurt, can be strawberry, blueberry, peach, or vanilla. <br> Any variation of toast. <br> Breakfast sandwiches. <br> Any variation of a salad  </p>
+<div style="width:400px; height:550px; background-color:#555555;">
+   <img src="file:///C:/Users/Owner/Downloads/Pancake.jpg" alt="Five stacked pancakes with syrup"/>
+</div>
+<h2> Lunch </h2> 
+<p> Chicken sandwiches. <br> Steak. <br> Fajitas. <br> Bacon. <br> Chicken. <br> Hamburger. <br> Chesseburger. <br> Sushi. </p>
+<div style="width:400px; height:550px; background-color:#555555;">
+   <img src="file:///C:/Users/Owner/Downloads/Sushi.jpg" alt="A big plate of sushi"/>
+</div>
+<h2> Dinner </h2> 
+<p> Any variation of hamburgers. <br> Any variation of a cheeseburger. Any variation of a chicken sandwich. <br> Chicken noodle soup. <br> Any variation of Pizza. <br> Any variation of Rice. <br> Shrimp. <br> Meatballs.  </p>
+<div style="width:400px; height:550px; background-color:#555555;">
+   <img src="Hamburger.jpg" alt="A Hamburger with lettuce, ketchup, mustard, and a tomato"/>
+</div>
