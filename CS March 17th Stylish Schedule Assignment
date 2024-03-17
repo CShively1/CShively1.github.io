@@ -1,0 +1,31 @@
+<H2> 12 Days of Christmas</H2>
+<style>
+    table {
+        border-collapse: collapse;
+    }
+    td {
+        border: solid 3px #000000;
+        background-color: #87cefa;
+        color: #b22222;
+        padding: 6px;
+    }
+</style>
+
+<table>
+    <tr>
+        <td>1st day of Christmas, December 25th.</td>
+        <td>2nd day of Christmas, December 26th.</td>
+        <td>3rd day of Christmas, December 27th.</td>
+        <td>4th day of Christmas, December 28th.</td>
+        <td>5th day of Christmas, December 29th.</td>
+        <td>6th day of Christmas, December 30th.</td>
+    </tr>
+    <tr>
+        <td>7th day of Christmas, December 31st.</td>
+        <td>8th day of Christmas, January 1st.</td>
+        <td>9th day of Christmas, January 2nd.</td>
+        <td>10th day of Christmas, January 3rd.</td>
+        <td>11th day of Christmas, January 4th.</td>
+        <td>12th day of Christmas, January 5th.</td>
+    </tr>
+</table>
